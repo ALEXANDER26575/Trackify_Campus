@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541392920329",
+    "project_id": "trackify-campus",
+    "storage_bucket": "trackify-campus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541392920329:android:542ae67ed6e424bec03dd8",
+        "android_client_info": {
+          "package_name": "com.apk.res.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwxuU7QK5aoP3bsfS3kTF_HCDUb6yGnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541392920329:android:135e2ddef666696bc03dd8",
+        "android_client_info": {
+          "package_name": "com.example.school_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLwxuU7QK5aoP3bsfS3kTF_HCDUb6yGnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
