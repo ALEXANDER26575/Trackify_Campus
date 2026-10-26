@@ -1,16 +1,14 @@
-# school_track
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#📱 Trackify Campus
+An offline-first mobile application designed to help university students seamlessly manage schedules, directory listings, and campus event tracking.
+##🛠️ Tech Stack & Tools
+Framework: Flutter (Dart)
+Database / Backend: Firebase Cloud Firestore
+Architecture: Offline-First Data Architecture
+##✨ Key Features
+Schedule Management: Track course timetables and daily routines offline.
+Campus Directory: Quick access to campus contacts and locations.
+Event Tracking: Keep track of upcoming academic and social events.
+##🚀 Getting Started
+To run this project locally:
+Clone the repository:
+git clone [https://github.com/ALEXANDER26575/Trackify_Campus.git](https://github.com/ALEXANDER26575/Trackify_Campus.git)
